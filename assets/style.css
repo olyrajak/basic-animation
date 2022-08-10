@@ -149,6 +149,7 @@ h2 {
   font-size: 48px;
   text-align: center;
   color: black;
+   text-decoration:underline;
   -webkit-animation-name: animate;
           animation-name: animate;
   -webkit-animation-duration: 2s;
